@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  jenkins:
+    image: jenkinsci/blueocean:latest
+    ports:
+        - 8080:8080
+        - 50000:50000
+    tty: true
