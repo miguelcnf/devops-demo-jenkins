@@ -1,4 +1,4 @@
-# Docker Compose demo
+# Jenkins demo
 
 #### Requirements
 
